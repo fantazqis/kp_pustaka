@@ -1,3 +1,3 @@
 # kp_pustaka
 
-KP membuat web perpustakaan di KEMHAN
+KP membuat web penyimpanan dan peminjaman dokumen di KEMHAN
